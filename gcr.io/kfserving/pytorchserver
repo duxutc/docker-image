@@ -1,1 +1,1 @@
-FROM gcr.io/kfserving/pytorchserver:last
+FROM gcr.io/kfserving/pytorchserver:latest
